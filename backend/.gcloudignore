@@ -1,0 +1,7 @@
+.env
+Dockerfile
+Dockerfile.dev
+compose.yaml
+compose.dev.yaml
+.dockerignore
+scripts/

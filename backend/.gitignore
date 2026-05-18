@@ -1,0 +1,23 @@
+# Binaries
+bin/
+dist/
+build/
+
+# Go
+*.exe
+*.test
+*.out
+vendor/
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage
+coverage.out
